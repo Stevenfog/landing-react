@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImg from '../assets/images/hero-removebg-preview.png'
+import HeroImg from '../assets/images/background.png'
 import Fade from 'react-reveal/Fade';
 
 export default function Hero() {
@@ -12,7 +12,7 @@ export default function Hero() {
                             <h1 className="font-weight-bold my-5">
                                 Choose Your Style.
                         </h1>
-                            <p className="mb-5 text-hero font-weight-light text-gray w-75 mt-3">
+                             <p className="mb-5 text-hero font-weight-light text-gray w-75 mt-3">
                                 Create your new style <br />
                             with our best selling product <br />
                             it's time to leave the old style.
