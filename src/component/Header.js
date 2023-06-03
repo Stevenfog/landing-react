@@ -8,7 +8,7 @@ export default function Header() {
                 <Fade bottom>
                     <div className="navbar navbar-expand-lg navbar-light">
                         <a className="navbar-brand" href="#">
-                         <span>OjiStore</span></a>
+                         <span>Wack Shop</span></a>
                         <div className="collapse-navbar-collapse ml-auto">
                             <ul className="navbar-nav">
                                 <li className="nav-item ">

@@ -1,9 +1,10 @@
+import './assets/scss/bootstrap.scss'
 import React from 'react'
-import Footer from '../component/Footer'
-import Headers from '../component/Header'
-import Hero from '../component/Hero'
-import Special from '../component/Special'
-import landingPageJson from '../json/landingPage.json'
+import Footer from '../src/component/Footer'
+import Headers from '../src/component/Header'
+import Hero from '../src/component/Hero'
+import Special from '../src/component/Special'
+import landingPageJson from '../src/json/landingPage.json'
 
 export default function LandingPage() {
     return (

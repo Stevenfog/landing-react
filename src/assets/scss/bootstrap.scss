@@ -195,12 +195,6 @@ footer {
         color: $gray-600;
         font-weight: 300;
         cursor: pointer;
-
-
-        @include hover-focus {
-            color: $primary;
-
-        }
     }
 
     .copyrights {
