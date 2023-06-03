@@ -1,0 +1,25 @@
+{
+    "special": [
+        {
+            "_id": "1",
+            "name": "Suit gray",
+            "imageUrl": "/images/back1.png",
+            "disc": "700.000",
+            "price": "550.000"
+        },
+        {
+            "_id": "2",
+            "name": "Suit gray",
+            "imageUrl": "/images/back2.png",
+            "disc": "100.090",
+            "price": "100.000"
+        },
+        {
+            "_id": "3",
+            "name": "Suit gray",
+            "imageUrl": "/images/back3.png",
+            "disc": "300.000",
+            "price": "150.000"
+        }
+    ],
+}
